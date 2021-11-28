@@ -101,16 +101,19 @@ Here are some ideas to get you started:
 
 📊 **This Week I Spent My Time On:**
 <!--START_SECTION:waka-->
-
 <!--END_SECTION:waka-->
 
-If you like what I do, maybe consider buying me a ☕ coffee/tea or 🍰 cake please 🥺👉👈  
+❤ If you like what I do, let's make a friend! 👉👈  
 
 🛠️ **My Projects**
-
-<a href="https://github.com/JackHCC/SaferGo" target="_blank"> <img alt="SaferGo" src="./Res/Icon/SaferGo.jpg" height="48" > </a>
-<a href="https://github.com/JackHCC/BabyBox" target="_blank"> <img alt="BabyBox" src="./Res/Icon/BabyBox.png"  height="48" > </a>
+<code><a href="https://github.com/JackHCC/SaferGo" target="_blank"><img height="60" src="./Res/Icon/SaferGo.jpg" alt="SaferGo" title="SaferGo"></a></code>
+<code><a href="https://github.com/JackHCC/BabyBox" target="_blank"><img height="60" src="./Res/Icon/BabyBox.png" alt="BabyBox" title="BabyBox"></a></code>
 <br>
+
+🔭 **I am an Astrophile**
+<p>I have a <a href="https://blog.creativecc.cn/SkyDream/">SkyDream</a> 💬 !</p>
+<p>I designed <a href="https://github.com/JackHCC/SkyDream">Here</a> 😄.</p>
+
 
 ---
 
