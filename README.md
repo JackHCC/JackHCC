@@ -1,23 +1,12 @@
-<h3>Hi, 👋  I'm <a href="https://blog.creativecc.cn/" target="_blank">HU CHENGCHENG (JackHCC)</a></h3>
+### ✨ Make the world better!!!!
+
+<p>Hi, 👋  I'm <a href="https://blog.creativecc.cn/" target="_blank">HU CHENGCHENG </a></p>
 
 <p><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="22" /><b> JackHCC/ Jack Cheng/ JackCC/ HCC</b> are all of my <em>CODE NAME</em></p>
 
-<img align="left" alt="GIF" src="https://www.bing.com/th/id/OGC.2b2155c668f98b793249e03dae6e3f86?pid=1.7&rurl=https%3a%2f%2fwww.365biaoqing.com%2fimages%2f367685%2f2_Wgfpd.png&ehk=ziwNrMnL0jIbs8x7z5pob8%2bu8OYwEMV81xlT4sh3ihw%3d" width="60" title="Say HI"> <em>Long time no see. <b>How are you?</b> Oh, you are a new friend. <b>hi, Nice to meet you!</b> :)</em>
+<img align="left" alt="GIF" src="https://www.bing.com/th/id/OGC.2b2155c668f98b793249e03dae6e3f86?pid=1.7&rurl=https%3a%2f%2fwww.365biaoqing.com%2fimages%2f367685%2f2_Wgfpd.png&ehk=ziwNrMnL0jIbs8x7z5pob8%2bu8OYwEMV81xlT4sh3ihw%3d" width="60" title="Say HI"> <em>Long time no see. <b>How are you?</b> Oh, you are a new friend. <b>Hi, Nice to meet you!</b> :)</em>
 
 <br>
-
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <p align="center">
   <a href="https://github.com/JackHCC" class="rich-diff-level-one">
@@ -69,8 +58,27 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<h2></h2>
+---
 
+### 🤡 Brief Introduction
+
+- 🏫 I’m currently a master student on **Peking University**, majoring in **Integrated Circuit**
+- 🌱 I’m currently learning *Integrated Circuit, Artificial Intelligence, Quantum Holographic*
+- 📫 You can get in touch with me by email at [jackcc0701@163.com](mailto:jackcc0701@163.com)
+- 🎈 Have a fun to [Relax](https://blog.creativecc.cn/iCreate-GuitarSimulator/index) ! [(⊙ˍ⊙)？](https://www.bilibili.com/video/BV1HC4y1x7ek/)
+
+---
+
+### 📗 Study and Work Experience
+[<img align="left" height="94px" width="94px" alt="StarCross" src="./Res/Icon/logo_xlkj.png"/>](http://www.starcross.cn/)
+
+**System Security R&D Engineer** \
+[**StarCross**](http://www.starcross.cn/) • 2021/4/19 - 2021/11/30 \
+Languages & Technologies: `Python`, `Java`, `Rust`, `Linux Kernel`, `Binary Security`, `Function Detection` \
+Featured Projects: [ghidracraft](https://github.com/StarCrossPortal/ghidracraft), [Binary Code Similarity Detection(Part)](https://github.com/JackHCC/Pcode-Similarity)
+<br/>
+
+---
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;
 
 **Languages and Frameworks**
@@ -99,23 +107,46 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" title="Docker"></code>
 <br>
 
-<h3>📊 This Week I Spent My Time On:</h3>
+### 📊 This Week I Spent My Time On:
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-❤ If you like what I do, let's make a friend! 👉👈  
+---
 
-<h3>🛠️ My Projects</h3>
+### 🛠️ My Projects
 
-<code><a href="https://github.com/JackHCC/SaferGo" target="_blank"><img height="60" src="./Res/Icon/SaferGo.jpg" alt="SaferGo" title="SaferGo"></a></code>
-<code><a href="https://github.com/JackHCC/BabyBox" target="_blank"><img height="60" src="./Res/Icon/BabyBox.png" alt="BabyBox" title="BabyBox"></a></code>
-<br>
+[<img align="left" height="94px" width="94px" alt="SaferGo" src="./Res/Icon/SaferGo.jpg"/>](https://github.com/JackHCC/SaferGo)
 
-<h3>🔭 I am an Astrophile</h3>
+**SaferGo Software** \
+[**SaferGo**](https://blog.creativecc.cn/Web-SaferGo/) • A real-time safety travel app that guards you. \
+Languages & Technologies: `Java`, `Android`, `Javascript`, `SQL` \
+Project Display: [Video](https://www.bilibili.com/video/BV1jE411w7T4/) / [Web](https://blog.creativecc.cn/Web-SaferGo/)
+<br/>
 
-<p>❤❤❤❤❤❤ I have a <a href="https://blog.creativecc.cn/SkyDream/">SkyDream</a> ❤❤❤❤❤❤ 💬 !</p>
+[<img align="left" height="94px" width="94px" alt="SaferGo" src="./Res/Icon/BabyBox.png"/>](https://github.com/JackHCC/BabyBox)
+
+**BabyCare System** \
+[**BabyCare**](https://blog.creativecc.cn/Web-BabyCare/) • Real-time baby care Internet of Things system. \
+Languages & Technologies: `Java`, `Android`, `Javascript`, `Ardunio`, `MQTT`, `MongoDB`, `C/C++`, `Nginx`\
+Project Display: [Video](https://www.bilibili.com/video/BV1pE411w71e/) / [BabyCareOrz](https://github.com/babycareorg)
+<br/>
+---
+
+[comment]: <> (<code><a href="https://github.com/JackHCC/SaferGo" target="_blank"><img height="60" src="./Res/Icon/SaferGo.jpg" alt="SaferGo" title="SaferGo"></a></code>)
+
+[comment]: <> (<code><a href="https://github.com/JackHCC/BabyBox" target="_blank"><img height="60" src="./Res/Icon/BabyBox.png" alt="BabyBox" title="BabyBox"></a></code>)
+
+[comment]: <> (<br>)
+
+
+### 🔭 I am an Astrophile
+
+<p>❤❤❤❤❤❤ I have a <a href="https://blog.creativecc.cn/SkyDream/">SkyDream</a> ❤❤❤❤❤❤ ✔ !</p>
 <p>❤❤❤❤❤❤ I designed <a href="https://github.com/JackHCC/SkyDream">Here</a> ❤❤❤❤❤❤ 😄.</p>
 
+🧤 If you like what I do, let's make a [**Friend**](https://blog.creativecc.cn/friends/)! 👉👈  
+
+👩🏼‍🤝‍🧑🏻 Let's study and make progress together 👉 [Go](https://blog.creativecc.cn/) !!! 
 
 ---
 
