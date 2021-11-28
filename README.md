@@ -121,7 +121,7 @@ Featured Projects: [ghidracraft](https://github.com/StarCrossPortal/ghidracraft)
 [**SaferGo**](https://blog.creativecc.cn/Web-SaferGo/) • A real-time safety travel app that guards you. \
 Languages & Technologies: `Java`, `Android`, `Javascript`, `SQL` \
 Project Display: [Video](https://www.bilibili.com/video/BV1jE411w7T4/) / [Web](https://blog.creativecc.cn/Web-SaferGo/)
-<br/>
+<br>
 
 [<img align="left" height="94px" width="94px" alt="SaferGo" src="./Res/Icon/BabyBox.png"/>](https://github.com/JackHCC/BabyBox)
 
@@ -129,15 +129,9 @@ Project Display: [Video](https://www.bilibili.com/video/BV1jE411w7T4/) / [Web](h
 [**BabyCare**](https://blog.creativecc.cn/Web-BabyCare/) • Real-time baby care Internet of Things system. \
 Languages & Technologies: `Java`, `Android`, `Javascript`, `Ardunio`, `MQTT`, `MongoDB`, `C/C++`, `Nginx`\
 Project Display: [Video](https://www.bilibili.com/video/BV1pE411w71e/) / [BabyCareOrz](https://github.com/babycareorg)
-<br/>
+<br>
+
 ---
-
-[comment]: <> (<code><a href="https://github.com/JackHCC/SaferGo" target="_blank"><img height="60" src="./Res/Icon/SaferGo.jpg" alt="SaferGo" title="SaferGo"></a></code>)
-
-[comment]: <> (<code><a href="https://github.com/JackHCC/BabyBox" target="_blank"><img height="60" src="./Res/Icon/BabyBox.png" alt="BabyBox" title="BabyBox"></a></code>)
-
-[comment]: <> (<br>)
-
 
 ### 🔭 I am an Astrophile
 
