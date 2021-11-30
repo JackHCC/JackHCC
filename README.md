@@ -74,8 +74,8 @@
 
 **System Security R&D Engineer** \
 [**StarCross**](http://www.starcross.cn/) • 2021/4/19 - 2021/11/30 \
-Languages & Technologies: `Python`, `Java`, `Rust`, `Linux Kernel`, `Binary Security`, `Function Detection` \
-Featured Projects: [ghidracraft](https://github.com/StarCrossPortal/ghidracraft), [Binary Code Similarity Detection(Part)](https://github.com/JackHCC/Pcode-Similarity)
+Languages & Technologies: `Python`, `Java`, `Rust`, `Linux Kernel`, `Binary Security`, `Function Detection`, `Redis` \
+Featured Projects: [ghidracraft](https://github.com/StarCrossPortal/ghidracraft) / [Binary Code Similarity Detection(Part)](https://github.com/JackHCC/Pcode-Similarity)
 <br/>
 
 ---
@@ -119,7 +119,7 @@ Featured Projects: [ghidracraft](https://github.com/StarCrossPortal/ghidracraft)
 
 **SaferGo Software** \
 [**SaferGo**](https://blog.creativecc.cn/Web-SaferGo/) • A real-time safety travel app that guards you. \
-Languages & Technologies: `Java`, `Android`, `Javascript`, `SQL` \
+Languages & Technologies: `Java`, `Android`, `Javascript`, `SQL`, `Nodejs` \
 Project Display: [Video](https://www.bilibili.com/video/BV1jE411w7T4/) / [Web](https://blog.creativecc.cn/Web-SaferGo/)
 <br>
 
