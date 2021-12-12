@@ -108,10 +108,21 @@ Featured Projects: [ghidracraft](https://github.com/StarCrossPortal/ghidracraft)
 <code><img height="20" src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IDEA" title="IDEA"></code>
 <code><img height="20" src="https://img.icons8.com/color/48/000000/visual-studio.png" alt="Visual-Studio" title="Visual-Studio"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" alt="TensorFlow" title="TensorFlow"></code>
-<code><img height="20" src="Res/Icon/verilog.png" alt="Pytorch" title="Pytorch"></code>
+<code><img height="20" src="Res/Icon/pytorch.png" alt="Pytorch" title="Pytorch"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" title="Linux"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" title="Docker"></code>
 <br>
+
+**Design**
+
+<code><img height="20" src="https://img.icons8.com/color/50/000000/adobe-photoshop.png" alt="PhotoShop" title="PhotoShop"></code>
+<code><img height="20" src="https://img.icons8.com/color/48/000000/adobe-premiere-pro.png" alt="Premiere" title="Premiere"></code>
+<code><img height="20" src="https://img.icons8.com/color/48/000000/adobe-after-effects.png" alt="After-Effect" title="After-Effect"></code>
+<code><img height="20" src="https://img.icons8.com/color/48/000000/adobe-audition.png" alt="Audition" title="Audition"></code>
+<code><img height="20" src="https://img.icons8.com/color/48/000000/3ds-max.png" alt="3D-Max" title="3D-Max"></code>
+<code><img height="20" src="https://img.icons8.com/fluency/48/000000/autodesk-inventor-2020.png" alt="Inventor" title="Inventor"></code>
+
+
 
 ### 📊 This Week I Spent My Time On:
 <!--START_SECTION:waka-->
@@ -149,10 +160,11 @@ Project Display: [Video](https://www.bilibili.com/video/BV1pE411w71e/) / [BabyCa
 <a href="https://github.com/sspkudx">
     <img src="https://img.shields.io/badge/PKU-Sspku-red">
 </a>
-<a href="https://github.com/orgs/babycareorg/dashboard">
+<a href="https://github.com/babycareorg">
     <img src="https://img.shields.io/badge/USTB-BabyCareOrz-blue">
 </a>
 
+🤝 Let's do some interesting projects together!!!
 
 ---
 
