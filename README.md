@@ -90,19 +90,25 @@ Featured Projects: [ghidracraft](https://github.com/StarCrossPortal/ghidracraft)
 <code><img height="20" src="https://img.icons8.com/dusk/64/000000/javascript-logo.png" alt="Javascript" title="Javascript"></code>
 <code><img height="20" src="https://img.icons8.com/dusk/64/000000/android.png" alt="Android" title="Android"></code>
 <code><img height="20" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java" title="Java"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" alt="TensorFlow" title="TensorFlow"></code>
-<code><img height="20" src="https://img.icons8.com/fluency/48/000000/matlab.png" alt="MATLAB" title="MATLAB"></code>
 <code><img height="20" src="Res/Icon/verilog.png" alt="Verilog" title="Verilog"></code>
+<code><img height="20" src="https://img.icons8.com/external-becris-lineal-color-becris/64/000000/external-r-data-science-becris-lineal-color-becris.png" alt="R" title="R"></code>
+<code><img height="20" src="https://img.icons8.com/fluency/48/000000/matlab.png" alt="MATLAB" title="MATLAB"></code>
+<code><img height="20" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-rust-is-a-multi-paradigm-system-programming-language-logo-shadow-tal-revivo.png" alt="Rust" title="Rust"></code>
+<code><img height="20" src="https://img.icons8.com/dusk/64/000000/f.png" alt="Fortran" title="Fortran"></code>
+<code><img height="20" src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png" alt="SQL" title="SQL"></code>
+<code><img height="20" src="https://img.icons8.com/color/48/000000/redis.png" alt="Redis" title="Redis"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" title="Git"></code>
 
 **Tools and Environments**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VSCode" title="VSCode"></code>
 <code><img height="20" src="https://user-images.githubusercontent.com/29084184/128668555-59d96329-2e64-4370-bfdc-89bf7a12aea8.png" alt="ARM-Keil" title="ARM-Keil"></code>
-<code><img height="20" src="https://images.nowcoder.com/images/20180629/0_1530258305740_67F7BB46DE9FC78164CA628F2CE05C37" alt="PyCharm" title="PyCharm"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" alt="Vim" title="Vim"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" alt="Markdown" title="MarkDown"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" alt="Matlab" title="Matlab"></code>
+<code><img height="20" src="https://img.icons8.com/color/48/000000/pycharm.png" alt="PyCharm" title="PyCharm"></code>
+<code><img height="20" src="https://img.icons8.com/color/48/000000/webstorm.png" alt="WebStorm" title="WebStorm"></code>
+<code><img height="20" src="https://img.icons8.com/color/48/000000/intellij-idea.png" alt="IDEA" title="IDEA"></code>
+<code><img height="20" src="https://img.icons8.com/color/48/000000/visual-studio.png" alt="Visual-Studio" title="Visual-Studio"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png" alt="TensorFlow" title="TensorFlow"></code>
+<code><img height="20" src="Res/Icon/verilog.png" alt="Pytorch" title="Pytorch"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" alt="Linux" title="Linux"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" title="Docker"></code>
 <br>
@@ -130,6 +136,23 @@ Project Display: [Video](https://www.bilibili.com/video/BV1jE411w7T4/) / [Web](h
 Languages & Technologies: `Java`, `Android`, `Javascript`, `Ardunio`, `MQTT`, `MongoDB`, `C/C++`, `Nginx`\
 Project Display: [Video](https://www.bilibili.com/video/BV1pE411w71e/) / [BabyCareOrz](https://github.com/babycareorg)
 <br>
+
+---
+
+### 🌏 My Organization
+<a href="https://github.com/Cheer-for-fun">
+    <img src="https://img.shields.io/badge/PKU-Cheer--for--Fun-success?logo=data:Res/Icon/verilog.png">
+</a>
+<a href="https://github.com/CrashKingOrz">
+    <img src="https://img.shields.io/badge/PKU-CrashKing-orange">
+</a>
+<a href="https://github.com/sspkudx">
+    <img src="https://img.shields.io/badge/PKU-Sspku-red">
+</a>
+<a href="https://github.com/orgs/babycareorg/dashboard">
+    <img src="https://img.shields.io/badge/USTB-BabyCareOrz-blue">
+</a>
+
 
 ---
 
