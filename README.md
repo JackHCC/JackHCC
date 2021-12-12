@@ -62,7 +62,7 @@
 
 ### 🤡 Brief Introduction
 
-- 🏫 I’m currently a master student on **Peking University**, majoring in **Integrated Circuit**
+- 🏫 I’m currently a master student on **<a href="https://www.pku.edu.cn/">Peking University</a>**, majoring in **Integrated Circuit**
 - 🌱 I’m currently learning *Integrated Circuit, Artificial Intelligence, Quantum Holographic*
 - 📫 You can get in touch with me by email at [jackcc0701@163.com](mailto:jackcc0701@163.com)
 - 🎈 Have a fun to [Relax](https://blog.creativecc.cn/iCreate-GuitarSimulator/index) ! [(⊙ˍ⊙)？](https://www.bilibili.com/video/BV1HC4y1x7ek/)
@@ -79,7 +79,7 @@ Featured Projects: [ghidracraft](https://github.com/StarCrossPortal/ghidracraft)
 <br/>
 
 ---
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="343" height="220" title="Do what you like, and do it best!"> 
 
 **Languages and Frameworks**
 
@@ -164,7 +164,9 @@ Project Display: [Video](https://www.bilibili.com/video/BV1pE411w71e/) / [BabyCa
     <img src="https://img.shields.io/badge/USTB-BabyCareOrz-blue">
 </a>
 
-🤝 Let's do some interesting projects together!!!
+<br>
+
+🤝 Let's do some interesting projects together 👆!!!
 
 ---
 
