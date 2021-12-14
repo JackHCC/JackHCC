@@ -142,7 +142,7 @@ V            4 mins          █░░░░░░░░░░░░░░░░
 [<img align="left" height="94px" width="94px" alt="SaferGo" src="./Res/Icon/SaferGo.jpg"/>](https://github.com/JackHCC/SaferGo)
 
 **SaferGo Software** \
-[**SaferGo**](https://blog.creativecc.cn/Web-SaferGo/) • A real-time safety travel app that guards you. \
+[**SaferGo**](https://github.com/JackHCC/SaferGo) • A real-time safety travel app that guards you. \
 Languages & Technologies: `Java`, `Android`, `Javascript`, `SQL`, `Nodejs` \
 Project Display: [Video](https://www.bilibili.com/video/BV1jE411w7T4/) / [Web](https://blog.creativecc.cn/Web-SaferGo/)
 <br>
@@ -150,9 +150,9 @@ Project Display: [Video](https://www.bilibili.com/video/BV1jE411w7T4/) / [Web](h
 [<img align="left" height="94px" width="94px" alt="SaferGo" src="./Res/Icon/BabyBox.png"/>](https://github.com/JackHCC/BabyBox)
 
 **BabyCare System** \
-[**BabyCare**](https://blog.creativecc.cn/Web-BabyCare/) • Real-time baby care Internet of Things system. \
+[**BabyCare**](https://github.com/JackHCC/BabyBox) • Real-time baby care Internet of Things system. \
 Languages & Technologies: `Java`, `Android`, `Javascript`, `Ardunio`, `MQTT`, `MongoDB`, `C/C++`, `Nginx`\
-Project Display: [Video](https://www.bilibili.com/video/BV1pE411w71e/) / [BabyCareOrz](https://github.com/babycareorg)
+Project Display: [Video](https://www.bilibili.com/video/BV1pE411w71e/) / [BabyCareOrz](https://github.com/babycareorg) / [Web](https://blog.creativecc.cn/Web-BabyCare/)
 <br>
 
 ---
