@@ -75,7 +75,7 @@
 **System Security R&D Engineer** \
 [**StarCross**](http://www.starcross.cn/) • 2021/4/19 - 2021/11/30 \
 Languages & Technologies: `Python`, `Java`, `Rust`, `Linux Kernel`, `Binary Security`, `Function Detection`, `Redis` \
-Featured Projects: [ghidracraft](https://github.com/StarCrossPortal/ghidracraft) / [Binary Code Similarity Detection(Part)](https://github.com/JackHCC/Pcode-Similarity)
+Featured Projects: [ghidracraft](https://github.com/StarCrossPortal/ghidracraft) / [Binary Code Similarity Detection(Part)](https://github.com/JackHCC/Pcode-Similarity) / [Awesome-BCSD](https://github.com/JackHCC/Awesome-Binary-Code-Similarity-Detection-2021)
 <br/>
 
 ---
@@ -134,6 +134,12 @@ Python       11 mins         ██▓░░░░░░░░░░░░░░
 V            4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
 ```
 <!--END_SECTION:waka-->
+
+### ⛏ *ToDo List*
+- [ ] Writing a [CGH simulate framework](https://github.com/JackHCC/Computer-Generated-Hologram)
+- [ ] Replicating some [classical neural network models](https://github.com/JackHCC/Awesome-DL-Models)
+- [ ] Implementing an [SDK for student life](https://github.com/Cheer-for-fun)
+- [ ] Adding [course knowledge points](https://github.com/JackHCC/PKU-Lessons-Summary)
 
 ---
 
