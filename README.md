@@ -185,6 +185,22 @@ Project Display: [Video](https://www.bilibili.com/video/BV1pE411w71e/) / [BabyCa
 
 ### 🔭 I am an Astrophile
 
+<!-- Set Weather API-->
+<div id="he-plugin-standard"></div>
+<script>
+WIDGET = {
+  "CONFIG": {
+    "layout": "1",
+    "width": "450",
+    "height": "150",
+    "background": "3",
+    "dataColor": "FFFFFF",
+    "key": "c9cfa345864b4ea3a2d0208c3eb946d9"
+  }
+}
+</script>
+<script src="https://widget.qweather.net/standard/static/js/he-standard-common.js?v=2.0"></script>
+
 <p>❤❤❤❤❤❤ I have a <a href="https://blog.creativecc.cn/SkyDream/">SkyDream</a> ❤❤❤❤❤❤ ✔ !</p>
 <p>❤❤❤❤❤❤ I designed <a href="https://github.com/JackHCC/SkyDream">Here</a> ❤❤❤❤❤❤ 😄.</p>
 
