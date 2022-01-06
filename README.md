@@ -174,6 +174,9 @@ Project Display: [Video](https://www.bilibili.com/video/BV1pE411w71e/) / [BabyCa
 <a href="https://github.com/sspkudx">
     <img src="https://img.shields.io/badge/PKU-Sspku-red">
 </a>
+<a href="https://github.com/SIPL-pku">
+    <img src="https://img.shields.io/badge/PKU-SIPL-purple">
+</a>
 <a href="https://github.com/babycareorg">
     <img src="https://img.shields.io/badge/USTB-BabyCareOrz-blue">
 </a>
