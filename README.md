@@ -141,6 +141,7 @@ JavaScript   12 mins         ▒░░░░░░░░░░░░░░░░
 - [ ] Writing a [CGH simulate framework](https://github.com/JackHCC/Computer-Generated-Hologram)
 - [ ] Replicating some [classical neural network models](https://github.com/JackHCC/Awesome-DL-Models)
 - [ ] Implementing an [SDK for student life](https://github.com/Cheer-for-fun)
+- [ ] Realize a [Power Point Reader platform](https://github.com/CrashKingOrz/ppReader-Kernel)
 
 ---
 
