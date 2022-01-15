@@ -2,7 +2,7 @@
 
 <p>Hi, 👋  I'm <a href="https://blog.creativecc.cn/" target="_blank">HU CHENGCHENG </a></p>
 
-This is my ToolKit, it must be your need 👉 [Creative.CC](https://creativecc.cn) 👈 || ⛏ Focus on improving personal efficiency!
+This is my ToolKit, it must be your need 👉 [Creative.CC](https://nav.creativecc.cn) 👈 || ⛏ Focus on improving personal efficiency!
 
 <p><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="22" /><b> JackHCC/ Jack Cheng/ JackCC/ HCC</b> are all of my <em>CODE NAME</em></p>
 
