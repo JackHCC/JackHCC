@@ -2,7 +2,7 @@
 
 <p>Hi, 👋  I'm <a href="https://blog.creativecc.cn/" target="_blank">HU CHENGCHENG </a></p>
 
-This is my ToolKit 👉 [Creative.CC](https://nav.creativecc.cn) 👈 || ⛏ Focus on improving personal efficiency!
+This is my ToolKit, it must be your need 👉 [Creative.CC](https://creativecc.cn) 👈 || ⛏ Focus on improving personal efficiency!
 
 <p><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="22" /><b> JackHCC/ Jack Cheng/ JackCC/ HCC</b> are all of my <em>CODE NAME</em></p>
 
@@ -20,8 +20,8 @@ This is my ToolKit 👉 [Creative.CC](https://nav.creativecc.cn) 👈 || ⛏ Foc
 </p>
 
 <p align="center">
-  <a href= "https://twitter.com/JackChe66021834" target="_blank" alt="Twitter" title="Twitter">
-    <img src="https://img.icons8.com/ios-glyphs/30/000000/twitter--v1.png" width="30px"/>
+  <a href= "https://nav.creativecc.cn" target="_blank" alt="Toolkit" title="Toolkit">
+    <img src="./Res/Icon/tooltik.png.png" width="30px"/>
   </a>
   &emsp;
   <a href="https://blog.csdn.net/qq_43042024" target="_blank" alt="CSDN" title="CSDN">
@@ -35,6 +35,10 @@ This is my ToolKit 👉 [Creative.CC](https://nav.creativecc.cn) 👈 || ⛏ Foc
   <a href="https://space.bilibili.com/327097999" target="_blank" alt="Bilibili" title="Bilibili">
     <img src="https://user-images.githubusercontent.com/29084184/129467562-a754907c-c128-40d0-80ad-86e89bdda3d6.png" width="30px"/>
   </a> 
+  &emsp;
+    <a href= "https://twitter.com/JackChe66021834" target="_blank" alt="Twitter" title="Twitter">
+    <img src="https://img.icons8.com/ios-glyphs/30/000000/twitter--v1.png" width="30px"/>
+  </a>
   &emsp;
   <a href= "https://www.instagram.com/hcc0701/" target="_blank" alt="Instagram" title="Instagram">
     <img src="https://img.icons8.com/ios-glyphs/256/000000/instagram-new.svg" width="28px"/>
