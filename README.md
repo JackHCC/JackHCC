@@ -21,7 +21,7 @@ This is my ToolKit, it must be your need 👉 [Creative.CC](https://creativecc.c
 
 <p align="center">
   <a href= "https://nav.creativecc.cn" target="_blank" alt="Toolkit" title="Toolkit">
-    <img src="./Res/Icon/tooltik.png.png" width="30px"/>
+    <img src="./Res/Icon/toolkit.png" width="30px"/>
   </a>
   &emsp;
   <a href="https://blog.csdn.net/qq_43042024" target="_blank" alt="CSDN" title="CSDN">
