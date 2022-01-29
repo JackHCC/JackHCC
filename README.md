@@ -89,9 +89,8 @@ Featured Projects: [Graduation Design](https://github.com/JackHCC/Graduation-Des
 
 **System Security R&D Engineer** \
 [**StarCross**](http://www.starcross.cn/) • 2021/04/19 - 2021/11/30 \
-Languages & Technologies: `Python`, `Java`, `Rust`, `Linux Kernel`, `Binary Security`, `Function Detection`, `Redis` \
+Languages & Technologies: `Python`, `Java`, `Rust`, `Linux`, `Operating System`, `Linux Kernel`, `Binary Security`, `Function Detection`, `Redis` \
 Featured Projects: [Ghidracraft](https://github.com/StarCrossPortal/ghidracraft) / [Binary Code Similarity Detection(Part)](https://github.com/JackHCC/Pcode-Similarity) / [Awesome-BCSD](https://github.com/JackHCC/Awesome-Binary-Code-Similarity-Detection-2021)
-
 <br>
 
 [<img align="left" height="94px" width="94px" alt="PKU" src="./Res/Icon/PKU.png"/>](https://www.pku.edu.cn/)
