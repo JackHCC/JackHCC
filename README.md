@@ -91,6 +91,7 @@ Featured Projects: [Graduation Design](https://github.com/JackHCC/Graduation-Des
 [**StarCross**](http://www.starcross.cn/) • 2021/04/19 - 2021/11/30 \
 Languages & Technologies: `Python`, `Java`, `Rust`, `Linux Kernel`, `Binary Security`, `Function Detection`, `Redis` \
 Featured Projects: [Ghidracraft](https://github.com/StarCrossPortal/ghidracraft) / [Binary Code Similarity Detection(Part)](https://github.com/JackHCC/Pcode-Similarity) / [Awesome-BCSD](https://github.com/JackHCC/Awesome-Binary-Code-Similarity-Detection-2021)
+
 <br>
 
 [<img align="left" height="94px" width="94px" alt="PKU" src="./Res/Icon/PKU.png"/>](https://www.pku.edu.cn/)
@@ -98,7 +99,7 @@ Featured Projects: [Ghidracraft](https://github.com/StarCrossPortal/ghidracraft)
 **Graduate Student** \
 [**PKU**](https://www.pku.edu.cn/) • 2021/09/01 - Now \
 Skills: `Python`, `Arm`, `Embedded System`, `Verilog`, `IC Design`, `Assembly`, `C/C++` \
-Featured Projects: [PKU Lesson Homework Summary](https://github.com/JackHCC/PKU-Lessons-Summary) / [Awesome DL Models](https://github.com/JackHCC/Awesome-DL-Models) 
+Featured Projects: [PKU Lesson Homework Summary](https://github.com/JackHCC/PKU-Lessons-Summary) / [Awesome DL Models](https://github.com/JackHCC/Awesome-DL-Models)
 <br/>
 
 ---
