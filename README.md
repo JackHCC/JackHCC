@@ -85,7 +85,7 @@ Skills: `Communication Principle`, `Signals and Systems`, `Digital Signal Proces
 Featured Projects: [Graduation Design](https://github.com/JackHCC/Graduation-Design) / [USTB Lesson Homework Summary](https://github.com/JackHCC/USTB-miniPaper)
 <br>
 
-[<img align="left" height="94px" width="94px" alt="StarCross" src="./Res/Icon/logo_xlkj.png"/>](http://www.starcross.cn/)
+[<img align="left" height="94px" width="94px" alt="StarCross" src="./Res/Icon/XLKJ.png"/>](http://www.starcross.cn/)
 
 **System Security R&D Engineer** \
 [**StarCross**](http://www.starcross.cn/) • 2021/04/19 - 2021/11/30 \
