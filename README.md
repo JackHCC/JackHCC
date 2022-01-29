@@ -76,12 +76,29 @@ This is my ToolKit, it must be your need 👉 [Creative.CC](https://nav.creative
 ---
 
 ### 📗 Study and Work Experience
+
+[<img align="left" height="94px" width="94px" alt="USTB" src="./Res/Icon/USTB.png"/>](https://www.ustb.edu.cn/)
+
+**Bachelor Degree** \
+[**USTB**](https://www.ustb.edu.cn/) • 2017/09/01 - 2021/07/01 \
+Skills: `Communication Principle`, `Signals and Systems`, `Digital Signal Processing`, `Machine Learning`, `Deep Learning`, `Computer Network`, `etc.` \
+Featured Projects: [Graduation Design](https://github.com/JackHCC/Graduation-Design) / [USTB Lesson Homework Summary](https://github.com/JackHCC/USTB-miniPaper)
+<br>
+
 [<img align="left" height="94px" width="94px" alt="StarCross" src="./Res/Icon/logo_xlkj.png"/>](http://www.starcross.cn/)
 
 **System Security R&D Engineer** \
-[**StarCross**](http://www.starcross.cn/) • 2021/4/19 - 2021/11/30 \
+[**StarCross**](http://www.starcross.cn/) • 2021/04/19 - 2021/11/30 \
 Languages & Technologies: `Python`, `Java`, `Rust`, `Linux Kernel`, `Binary Security`, `Function Detection`, `Redis` \
-Featured Projects: [ghidracraft](https://github.com/StarCrossPortal/ghidracraft) / [Binary Code Similarity Detection(Part)](https://github.com/JackHCC/Pcode-Similarity) / [Awesome-BCSD](https://github.com/JackHCC/Awesome-Binary-Code-Similarity-Detection-2021)
+Featured Projects: [Ghidracraft](https://github.com/StarCrossPortal/ghidracraft) / [Binary Code Similarity Detection(Part)](https://github.com/JackHCC/Pcode-Similarity) / [Awesome-BCSD](https://github.com/JackHCC/Awesome-Binary-Code-Similarity-Detection-2021)
+<br>
+
+[<img align="left" height="94px" width="94px" alt="PKU" src="./Res/Icon/PKU.png"/>](https://www.pku.edu.cn/)
+
+**Graduate Student** \
+[**PKU**](https://www.pku.edu.cn/) • 2021/09/01 - Now \
+Skills: `Python`, `Arm`, `Embedded System`, `Verilog`, `IC Design`, `Assembly`, `C/C++` \
+Featured Projects: [PKU Lesson Homework Summary](https://github.com/JackHCC/PKU-Lessons-Summary) / [Awesome DL Models](https://github.com/JackHCC/Awesome-DL-Models) 
 <br/>
 
 ---
@@ -143,14 +160,14 @@ GitIgnore file   51 mins         ▓░░░░░░░░░░░░░░�
 
 ### ⛏ *ToDo List*
 - [ ] Writing a [CGH simulate framework](https://github.com/JackHCC/Computer-Generated-Hologram)
-- [ ] Replicating some [classical neural network models](https://github.com/JackHCC/Awesome-DL-Models)
+- [ ] Replicating some [Classical neural network models](https://github.com/JackHCC/Awesome-DL-Models)
 - [ ] Implementing an [SDK for student life](https://github.com/Cheer-for-fun)
 - [ ] Realize a [Power Point Reader platform](https://github.com/CrashKingOrz/ppReader-Kernel)
 - [ ] Writing a [KengBook](https://github.com/JackHCC/Fucking-Keng)
 
 ---
 
-### 🛠️ My Projects
+### 🏆 Competition Projects
 
 [<img align="left" height="94px" width="94px" alt="SaferGo" src="./Res/Icon/SaferGo.jpg"/>](https://github.com/JackHCC/SaferGo)
 
@@ -160,13 +177,42 @@ Languages & Technologies: `Java`, `Android`, `Javascript`, `SQL`, `Nodejs` \
 Project Display: [Video](https://www.bilibili.com/video/BV1jE411w7T4/) / [Web](https://blog.creativecc.cn/Web-SaferGo/)
 <br>
 
-[<img align="left" height="94px" width="94px" alt="SaferGo" src="./Res/Icon/BabyBox.png"/>](https://github.com/JackHCC/BabyBox)
+[<img align="left" height="94px" width="94px" alt="BabyBox" src="./Res/Icon/BabyBox.png"/>](https://github.com/JackHCC/BabyBox)
 
 **BabyCare System** \
 [**BabyCare**](https://github.com/JackHCC/BabyBox) • Real-time baby care Internet of Things system. \
 Languages & Technologies: `Java`, `Android`, `Javascript`, `Ardunio`, `MQTT`, `MongoDB`, `C/C++`, `Nginx`\
 Project Display: [Video](https://www.bilibili.com/video/BV1pE411w71e/) / [BabyCareOrz](https://github.com/babycareorg) / [Web](https://blog.creativecc.cn/Web-BabyCare/)
 <br>
+
+[<img align="left" height="94px" width="94px" alt="ppReader" src="./Res/Icon/ppReader.png"/>](https://github.com/CrashKingOrz/ppReader-Kernel)
+
+**ppReader Platform** \
+[**ppReader**](https://github.com/CrashKingOrz/ppReader-Kernel) • An AI powerful point reading system platform. \
+Languages & Technologies: `Python`, `Paddle`, `OpenCV`, `MediaPipe`, `Yolo`\
+Project Display: [Video]() / [Application]()
+<br>
+
+---
+
+### 🛠️ Amateur Projects
+
+[<img align="left" height="94px" width="94px" alt="CGH" src="./Res/Icon/CGH.png"/>](https://github.com/JackHCC/Computer-Generated-Hologram)
+
+**Computer Generated Hologram** \
+[**CGH**](https://github.com/JackHCC/Computer-Generated-Hologram) • A computer generated hologram simulation framework. \
+Languages & Technologies: `Python`, `Matlab` \
+Project Display: [Project](https://github.com/JackHCC/Computer-Generated-Hologram)
+<br>
+
+[<img align="left" height="94px" width="94px" alt="Fucking Keng" src="./Res/Icon/KengBook.png"/>](https://github.com/JackHCC/Fucking-Keng)
+
+**Fucking Keng** \
+[**Keng Book**](https://github.com/JackHCC/Fucking-Keng) • A book to index errors and solutions. \
+Tags: `MarkDown`, `Bugs Resolve`, `Awesome` \
+Project Display: [Book](http://book.creativecc.cn/)
+<br>
+
 
 ---
 
