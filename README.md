@@ -77,13 +77,13 @@ This is my ToolKit, it must be your need 👉 [Creative.CC](https://nav.creative
 
 ### 📗 Study and Work Experience
 
-[<img align="left" height="94px" width="94px" alt="USTB" src="./Res/Icon/USTB.png"/>](https://www.ustb.edu.cn/)
+[<img align="left" height="94px" width="94px" alt="PKU" src="./Res/Icon/PKU.png"/>](https://www.pku.edu.cn/)
 
-**Bachelor Degree** \
-[**USTB**](https://www.ustb.edu.cn/) • 2017/09/01 - 2021/07/01 \
-Skills: `Communication Principle`, `Signals and Systems`, `Digital Signal Processing`, `Machine Learning`, `Deep Learning`, `Computer Network`, `etc.` \
-Featured Projects: [Graduation Design](https://github.com/JackHCC/Graduation-Design) / [USTB Lesson Homework Summary](https://github.com/JackHCC/USTB-miniPaper)
-<br>
+**Graduate Student** \
+[**PKU**](https://www.pku.edu.cn/) • 2021/09/01 - Now \
+Skills: `Python`, `Arm`, `Embedded System`, `Verilog`, `IC Design`, `Assembly`, `C/C++` \
+Featured Projects: [PKU Lesson Homework Summary](https://github.com/JackHCC/PKU-Lessons-Summary) / [Awesome DL Models](https://github.com/JackHCC/Awesome-DL-Models)
+<br/>
 
 [<img align="left" height="94px" width="94px" alt="StarCross" src="./Res/Icon/XLKJ.png"/>](http://www.starcross.cn/)
 
@@ -93,13 +93,13 @@ Languages & Technologies: `Python`, `Java`, `Rust`, `Linux`, `Operating System`,
 Featured Projects: [Ghidracraft](https://github.com/StarCrossPortal/ghidracraft) / [Binary Code Similarity Detection(Part)](https://github.com/JackHCC/Pcode-Similarity) / [Awesome-BCSD](https://github.com/JackHCC/Awesome-Binary-Code-Similarity-Detection-2021)
 <br>
 
-[<img align="left" height="94px" width="94px" alt="PKU" src="./Res/Icon/PKU.png"/>](https://www.pku.edu.cn/)
+[<img align="left" height="94px" width="94px" alt="USTB" src="./Res/Icon/USTB.png"/>](https://www.ustb.edu.cn/)
 
-**Graduate Student** \
-[**PKU**](https://www.pku.edu.cn/) • 2021/09/01 - Now \
-Skills: `Python`, `Arm`, `Embedded System`, `Verilog`, `IC Design`, `Assembly`, `C/C++` \
-Featured Projects: [PKU Lesson Homework Summary](https://github.com/JackHCC/PKU-Lessons-Summary) / [Awesome DL Models](https://github.com/JackHCC/Awesome-DL-Models)
-<br/>
+**Bachelor Degree** \
+[**USTB**](https://www.ustb.edu.cn/) • 2017/09/01 - 2021/07/01 \
+Skills: `Communication Principle`, `Signals and Systems`, `Digital Signal Processing`, `Machine Learning`, `Deep Learning`, `Computer Network`, `etc.` \
+Featured Projects: [Graduation Design](https://github.com/JackHCC/Graduation-Design) / [USTB Lesson Homework Summary](https://github.com/JackHCC/USTB-miniPaper)
+<br>
 
 ---
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="343" height="220" title="Do what you like, and do it best!"> 
@@ -161,7 +161,7 @@ Markdown     21 mins         ▓░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 ### ⛏ *ToDo List*
-- [ ] Writing a [CGH simulate framework](https://github.com/JackHCC/Computer-Generated-Hologram)
+- [x] Writing a [CGH simulate framework](https://github.com/JackHCC/Computer-Generated-Hologram) \[Pause\]
 - [ ] Replicating some [Classical neural network models](https://github.com/JackHCC/Awesome-DL-Models)
 - [ ] Implementing an [SDK for student life](https://github.com/Cheer-for-fun)
 - [ ] Realize a [Power Point Reader platform](https://github.com/CrashKingOrz/ppReader-Kernel)
