@@ -69,7 +69,7 @@ This is my ToolKit, it must be your need 👉 [Creative.CC](https://nav.creative
 ### 🤡 Brief Introduction
 
 - 🏫 I’m currently a master student on **<a href="https://www.pku.edu.cn/">Peking University</a>**, majoring in **Integrated Circuit**
-- 🌱 I’m currently learning *Integrated Circuit, Artificial Intelligence, Quantum Holographic*
+- 🌱 I’m currently learning [*Natural Language Processing*](https://github.com/JackHCC/NLP-Bubble)
 - 📫 You can get in touch with me by email at [jackcc0701@163.com](mailto:jackcc0701@163.com)
 - 🎈 Have a fun to [Relax](https://blog.creativecc.cn/iCreate-GuitarSimulator/index) ! [(⊙ˍ⊙)？](https://www.bilibili.com/video/BV1HC4y1x7ek/)
 
@@ -160,9 +160,9 @@ Text       2 mins          ░░░░░░░░░░░░░░░░░�
 ### ⛏ *ToDo List*
 - [x] Writing a [CGH simulate framework](https://github.com/JackHCC/Computer-Generated-Hologram) \[Pause\]
 - [ ] Replicating some [Classical neural network models](https://github.com/JackHCC/Awesome-DL-Models)
-- [ ] Implementing an [SDK for student life](https://github.com/Cheer-for-fun)
+- [ ] Implementing an [SDK for student life](https://github.com/Cheer-for-fun) \[Long Term\]
 - [ ] Realize a [Power Point Reader platform](https://github.com/CrashKingOrz/ppReader-Kernel)
-- [ ] Writing a [KengBook](https://github.com/JackHCC/Fucking-Keng)
+- [ ] Writing a [KengBook](https://github.com/JackHCC/Fucking-Keng) \[Long Term\]
 
 ---
 
