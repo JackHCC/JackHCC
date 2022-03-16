@@ -48,7 +48,7 @@ This is my ToolKit, it must be your need 👉 [Creative.CC](https://nav.creative
     <img src="https://img.icons8.com/material-outlined/24/000000/jianshu.png" width="26px"/>
   </a>
   <br><br>
-  <strong>⚡ Check out my work below! <a href="https://jackhcc.notion.site/e8d0a6d36c42490fb2c851a7570ef227" target="_blank">Resume</a></strong>
+  <strong>⚡ Check out my work below! </strong>
   <br><br>
   <a href="https://github.com/JackHCC">
     <img src="https://badges.pufler.dev/visits/JackHCC/JackHCC?style=flat-square&color=black&logo=github">
