@@ -151,12 +151,12 @@ Featured Projects: [Graduation Design](https://github.com/JackHCC/Graduation-Des
 <!--START_SECTION:waka-->
 
 ```text
-Python       15 hrs 17 mins  ███████████████▓░░░░░░░░░   62.94 %
-HTML         3 hrs 45 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.45 %
-JavaScript   2 hrs 13 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.18 %
-CSS          1 hr 34 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.51 %
-Text         1 hr 17 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
-JSON         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+Python       13 hrs 33 mins  ███████████████░░░░░░░░░░   60.12 %
+HTML         3 hrs 45 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.64 %
+JavaScript   2 hrs 13 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.88 %
+CSS          1 hr 34 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.01 %
+Text         1 hr 17 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.71 %
+JSON         6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
 ```
 
 <!--END_SECTION:waka-->
