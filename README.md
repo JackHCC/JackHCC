@@ -165,7 +165,7 @@ GitIgnore file   6 mins          ░░░░░░░░░░░░░░░�
 - [x] Writing a [CGH simulate framework](https://github.com/JackHCC/Computer-Generated-Hologram) \[Pause\]
 - [ ] Replicating some [Classical neural network models](https://github.com/JackHCC/Awesome-DL-Models)
 - [ ] Implementing an [SDK for student life](https://github.com/Cheer-for-fun) \[Long Term\]
-- [ ] Realize a [Power Point Reader platform](https://github.com/CrashKingOrz/ppReader-Kernel)
+- [x] Realize a [Power Point Reader platform](https://github.com/CrashKingOrz/ppReader-Kernel)
 - [ ] Writing a [KengBook](https://github.com/JackHCC/Fucking-Keng) \[Long Term\]
 
 ---
@@ -193,7 +193,7 @@ Project Display: [Video](https://www.bilibili.com/video/BV1pE411w71e/) / [BabyCa
 **ppReader Platform** \
 [**ppReader**](https://github.com/CrashKingOrz/ppReader-Kernel) • An AI powerful point reading system platform. \
 Languages & Technologies: `Python`, `Paddle`, `OpenCV`, `MediaPipe`, `Yolo`\
-Project Display: [Video]() / [Application]()
+Project Display: [Video](https://www.bilibili.com/video/BV1j94y1d7kC/) / [Application](https://ppreader.creativecc.cn/) / [Web](https://github.com/CrashKingOrz/ppReader-Web) / [Wx Program](https://github.com/CrashKingOrz/ppReader)
 <br>
 
 ---
