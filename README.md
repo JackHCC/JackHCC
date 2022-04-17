@@ -85,13 +85,6 @@ Skills: `Python`, `Arm`, `Embedded System`, `Verilog`, `IC Design`, `Assembly`, 
 Featured Projects: [PKU Lesson Homework Summary](https://github.com/JackHCC/PKU-Lessons-Summary) / [Awesome DL Models](https://github.com/JackHCC/Awesome-DL-Models)
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="StarCross" src="./Res/Icon/XLKJ.png"/>](http://www.starcross.cn/)
-
-**System Security R&D Engineer** \
-[**StarCross**](http://www.starcross.cn/) • 2021/04/19 - 2021/11/30 \
-Languages & Technologies: `Python`, `Java`, `Rust`, `Linux`, `Operating System`, `Linux Kernel`, `Binary Security`, `Function Detection`, `Redis` \
-Featured Projects: [Ghidracraft](https://github.com/StarCrossPortal/ghidracraft) / [Binary Code Similarity Detection(Part)](https://github.com/JackHCC/Pcode-Similarity) / [Awesome-BCSD](https://github.com/JackHCC/Awesome-Binary-Code-Similarity-Detection-2021)
-<br>
 
 [<img align="left" height="94px" width="94px" alt="USTB" src="./Res/Icon/USTB.png"/>](https://www.ustb.edu.cn/)
 
@@ -100,6 +93,25 @@ Featured Projects: [Ghidracraft](https://github.com/StarCrossPortal/ghidracraft)
 Skills: `Communication Principle`, `Signals and Systems`, `Digital Signal Processing`, `Machine Learning`, `Deep Learning`, `Computer Network`, `etc.` \
 Featured Projects: [Graduation Design](https://github.com/JackHCC/Graduation-Design) / [USTB Lesson Homework Summary](https://github.com/JackHCC/USTB-miniPaper)
 <br>
+
+### ⛳ Work Experience
+
+[<img align="left" height="94px" width="94px" alt="DiDi" src="./Res/Icon/DiDi.png"/>](https://www.didiglobal.com/)
+
+**NLP Algorithm Intern** \
+[**DiDi**](https://www.didiglobal.com/) • 2022/03/22 - Now \
+Languages & Technologies: `Python`, `Spark`, `Event Extraction`, `Question Answering System`,  \
+Featured Projects: None
+<br>
+
+[<img align="left" height="94px" width="94px" alt="StarCross" src="./Res/Icon/XLKJ.png"/>](http://www.starcross.cn/)
+
+**System Security R&D Engineer** \
+[**StarCross**](http://www.starcross.cn/) • 2021/04/19 - 2021/11/30 \
+Languages & Technologies: `Python`, `Java`, `Rust`, `Linux`, `Operating System`, `Linux Kernel`, `Binary Security`, `Function Detection`, `Redis` \
+Featured Projects: [Ghidracraft](https://github.com/StarCrossPortal/ghidracraft) / [Binary Code Similarity Detection(Part)](https://github.com/JackHCC/Pcode-Similarity) / [Awesome-BCSD](https://github.com/JackHCC/Awesome-Binary-Code-Similarity-Detection-2021)
+<br>
+
 
 ---
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="343" height="220" title="Do what you like, and do it best!"> 
