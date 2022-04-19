@@ -75,7 +75,7 @@ This is my ToolKit, it must be your need 👉 [Creative.CC](https://nav.creative
 
 ---
 
-### 📗 Study and Work Experience
+### 📗 Education Experience
 
 [<img align="left" height="94px" width="94px" alt="PKU" src="./Res/Icon/PKU.png"/>](https://www.pku.edu.cn/)
 
@@ -100,7 +100,7 @@ Featured Projects: [Graduation Design](https://github.com/JackHCC/Graduation-Des
 
 **NLP Algorithm Intern** \
 [**DiDi**](https://www.didiglobal.com/) • 2022/03/22 - Now \
-Languages & Technologies: `Python`, `Spark`, `Event Extraction`, `Question Answering System`,  \
+Languages & Technologies: `Python`, `Spark`, `Natural Language Processing`, `Event Extraction`, `Question Answering System`  \
 Featured Projects: None
 <br>
 
@@ -129,7 +129,6 @@ Featured Projects: [Ghidracraft](https://github.com/StarCrossPortal/ghidracraft)
 <code><img height="20" src="https://img.icons8.com/external-becris-lineal-color-becris/64/000000/external-r-data-science-becris-lineal-color-becris.png" alt="R" title="R"></code>
 <code><img height="20" src="https://img.icons8.com/fluency/48/000000/matlab.png" alt="MATLAB" title="MATLAB"></code>
 <code><img height="20" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-rust-is-a-multi-paradigm-system-programming-language-logo-shadow-tal-revivo.png" alt="Rust" title="Rust"></code>
-<code><img height="20" src="https://img.icons8.com/dusk/64/000000/f.png" alt="Fortran" title="Fortran"></code>
 <code><img height="20" src="https://img.icons8.com/external-soft-fill-juicy-fish/60/000000/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png" alt="SQL" title="SQL"></code>
 <code><img height="20" src="https://img.icons8.com/color/48/000000/redis.png" alt="Redis" title="Redis"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" title="Git"></code>
