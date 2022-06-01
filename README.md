@@ -123,9 +123,7 @@ Featured Projects: [Ghidracraft](https://github.com/StarCrossPortal/ghidracraft)
 <code><img height="20" src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML" title="HTML"></code>
 <code><img height="20" src="https://img.icons8.com/dusk/64/000000/css3.png" alt="CSS" title="CSS"></code>
 <code><img height="20" src="https://img.icons8.com/dusk/64/000000/javascript-logo.png" alt="Javascript" title="Javascript"></code>
-<code><img height="20" src="https://img.icons8.com/dusk/64/000000/android.png" alt="Android" title="Android"></code>
 <code><img height="20" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java" title="Java"></code>
-<code><img height="20" src="Res/Icon/verilog.png" alt="Verilog" title="Verilog"></code>
 <code><img height="20" src="https://img.icons8.com/external-becris-lineal-color-becris/64/000000/external-r-data-science-becris-lineal-color-becris.png" alt="R" title="R"></code>
 <code><img height="20" src="https://img.icons8.com/fluency/48/000000/matlab.png" alt="MATLAB" title="MATLAB"></code>
 <code><img height="20" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-rust-is-a-multi-paradigm-system-programming-language-logo-shadow-tal-revivo.png" alt="Rust" title="Rust"></code>
@@ -173,11 +171,9 @@ HTML             0 secs          ░░░░░░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### ⛏ *ToDo List*
-- [x] Writing a [CGH simulate framework](https://github.com/JackHCC/Computer-Generated-Hologram) \[Pause\]
+- [ ] Writing a [CGH simulate framework](https://github.com/JackHCC/Computer-Generated-Hologram)
 - [ ] Replicating some [Classical neural network models](https://github.com/JackHCC/Awesome-DL-Models)
 - [ ] Implementing an [SDK for student life](https://github.com/Cheer-for-fun) \[Long Term\]
-- [x] Realize a [Power Point Reader platform](https://github.com/CrashKingOrz/ppReader-Kernel)
-- [ ] Writing a [KengBook](https://github.com/JackHCC/Fucking-Keng) \[Long Term\]
 
 ---
 
