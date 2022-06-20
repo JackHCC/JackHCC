@@ -100,7 +100,7 @@ Featured Projects: [Graduation Design](https://github.com/JackHCC/Graduation-Des
 
 **NLP Algorithm Intern** \
 [**DiDi**](https://www.didiglobal.com/) • 2022/03/22 - 2022/06/22 \
-Languages & Technologies: `Python`, `Spark`, `Natural Language Processing`, `Event Extraction`, `Question Answering System`  \
+Languages & Technologies: `Python`, `Natural Language Processing`, `Event Extraction`, `Question Answering System`, `KeyPhrase Extraction`  \
 Featured Projects: KBQA / IRQA / [KeyPhrase Extraction](https://github.com/JackHCC/Chinese-Keyphrase-Extraction)
 <br>
 
