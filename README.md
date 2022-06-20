@@ -68,7 +68,7 @@ This is my ToolKit, it must be your need 👉 [Creative.CC](https://nav.creative
 
 ### 🤡 Brief Introduction
 
-- 🏫 I’m currently a master student on **<a href="https://www.pku.edu.cn/">Peking University</a>**, majoring in **Integrated Circuit**
+- 🏫 I’m currently a master student on **<a href="https://www.pku.edu.cn/">Peking University</a>**, majoring in **Electronic Information**
 - 🌱 I’m currently learning [*Natural Language Processing*](https://github.com/JackHCC/NLP-Bubble)
 - 📫 You can get in touch with me by email at [jackcc0701@163.com](mailto:jackcc0701@163.com)
 - 🎈 Have a fun to [Relax](https://blog.creativecc.cn/iCreate-GuitarSimulator/index) ! [(⊙ˍ⊙)？](https://www.bilibili.com/video/BV1HC4y1x7ek/)
@@ -99,9 +99,9 @@ Featured Projects: [Graduation Design](https://github.com/JackHCC/Graduation-Des
 [<img align="left" height="94px" width="94px" alt="DiDi" src="./Res/Icon/DiDi.png"/>](https://www.didiglobal.com/)
 
 **NLP Algorithm Intern** \
-[**DiDi**](https://www.didiglobal.com/) • 2022/03/22 - Now \
+[**DiDi**](https://www.didiglobal.com/) • 2022/03/22 - 2022/06/22 \
 Languages & Technologies: `Python`, `Spark`, `Natural Language Processing`, `Event Extraction`, `Question Answering System`  \
-Featured Projects: None
+Featured Projects: KBQA / IRQA / [KeyPhrase Extraction](https://github.com/JackHCC/Chinese-Keyphrase-Extraction)
 <br>
 
 [<img align="left" height="94px" width="94px" alt="StarCross" src="./Res/Icon/XLKJ.png"/>](http://www.starcross.cn/)
@@ -170,10 +170,6 @@ TypeScript   0 secs          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-### ⛏ *ToDo List*
-- [ ] Writing a [CGH simulate framework](https://github.com/JackHCC/Computer-Generated-Hologram)
-- [ ] Replicating some [Classical neural network models](https://github.com/JackHCC/Awesome-DL-Models)
-- [ ] Implementing an [SDK for student life](https://github.com/Cheer-for-fun) \[Long Term\]
 
 ---
 
