@@ -199,6 +199,14 @@ Languages & Technologies: `Python`, `Paddle`, `OpenCV`, `MediaPipe`, `Yolo`\
 Project Display: [Video](https://www.bilibili.com/video/BV1j94y1d7kC/) / [Application](https://ppreader.creativecc.cn/) / [Web](https://github.com/CrashKingOrz/ppReader-Web) / [Wx Program](https://github.com/CrashKingOrz/ppReader)
 <br>
 
+[<img align="left" height="94px" width="94px" alt="AmazingMartin" src="./Res/Icon/AmazingMartin.png"/>](https://github.com/CrashKingOrz/AmazingMartin)
+
+**AmazingMartin** \
+[**AmazingMartin**](https://github.com/CrashKingOrz/AmazingMartin) • A wonderful virtual dressing room application based on GAN. \
+Languages & Technologies: `Python`, `GAN`, `OpenCV`\
+Project Display: [Video](https://www.bilibili.com/video/BV15W4y167vb) 
+<br>
+
 ---
 
 ### 🛠️ Amateur Projects
