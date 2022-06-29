@@ -69,7 +69,7 @@ This is my ToolKit, it must be your need 👉 [Creative.CC](https://nav.creative
 ### 🤡 Brief Introduction
 
 - 🏫 I’m currently a master student on **<a href="https://www.pku.edu.cn/">Peking University</a>**, majoring in **Electronic Information**
-- 🌱 I’m currently learning [*Natural Language Processing*](https://github.com/JackHCC/NLP-Bubble)
+- 🌱 I’m currently learning [*Natural Language Processing*](https://github.com/JackHCC/NLP-Bubble), [Quantum](https://github.com/JackHCC/Quantum-Neural-Network) [Holography](https://github.com/JackHCC/Computer-Generated-Hologram), Recommended System
 - 📫 You can get in touch with me by email at [jackcc0701@163.com](mailto:jackcc0701@163.com)
 - 🎈 Have a fun to [Relax](https://blog.creativecc.cn/iCreate-GuitarSimulator/index) ! [(⊙ˍ⊙)？](https://www.bilibili.com/video/BV1HC4y1x7ek/)
 
@@ -81,7 +81,7 @@ This is my ToolKit, it must be your need 👉 [Creative.CC](https://nav.creative
 
 **Graduate Student** \
 [**PKU**](https://www.pku.edu.cn/) • 2021/09/01 - Now \
-Skills: `Python`, `Arm`, `Embedded System`, `Verilog`, `IC Design`, `Assembly`, `C/C++` \
+Skills: `Python`, `Natural Language Processing`, `Computer Vision`, `Embedded System`, `Verilog`, `Assembly`, `etc.` \
 Featured Projects: [PKU Lesson Homework Summary](https://github.com/JackHCC/PKU-Lessons-Summary) / [Awesome DL Models](https://github.com/JackHCC/Awesome-DL-Models)
 <br/>
 
@@ -99,7 +99,7 @@ Featured Projects: [Graduation Design](https://github.com/JackHCC/Graduation-Des
 [<img align="left" height="94px" width="94px" alt="DiDi" src="./Res/Icon/DiDi.png"/>](https://www.didiglobal.com/)
 
 **NLP Algorithm Intern** \
-[**DiDi**](https://www.didiglobal.com/) • 2022/03/22 - 2022/06/22 \
+[**DiDi**](https://www.didiglobal.com/) • 2022/03/22 - 2022/06/23 \
 Languages & Technologies: `Python`, `Natural Language Processing`, `Event Extraction`, `Question Answering System`, `KeyPhrase Extraction`  \
 Featured Projects: KBQA / IRQA / [KeyPhrase Extraction](https://github.com/JackHCC/Chinese-Keyphrase-Extraction)
 <br>
@@ -173,22 +173,14 @@ HTML             1 min           ░░░░░░░░░░░░░░░�
 
 ---
 
-### 🏆 Competition Projects
+### 🏆 Projects
 
-[<img align="left" height="94px" width="94px" alt="SaferGo" src="./Res/Icon/SaferGo.jpg"/>](https://github.com/JackHCC/SaferGo)
+[<img align="left" height="94px" width="94px" alt="CGH" src="./Res/Icon/CGH.png"/>](https://github.com/JackHCC/Computer-Generated-Hologram)
 
-**SaferGo Software** \
-[**SaferGo**](https://github.com/JackHCC/SaferGo) • A real-time safety travel app that guards you. \
-Languages & Technologies: `Java`, `Android`, `Javascript`, `SQL`, `Nodejs` \
-Project Display: [Video](https://www.bilibili.com/video/BV1jE411w7T4/) / [Web](https://blog.creativecc.cn/Web-SaferGo/)
-<br>
-
-[<img align="left" height="94px" width="94px" alt="BabyBox" src="./Res/Icon/BabyBox.png"/>](https://github.com/JackHCC/BabyBox)
-
-**BabyCare System** \
-[**BabyCare**](https://github.com/JackHCC/BabyBox) • Real-time baby care Internet of Things system. \
-Languages & Technologies: `Java`, `Android`, `Javascript`, `Ardunio`, `MQTT`, `MongoDB`, `C/C++`, `Nginx`\
-Project Display: [Video](https://www.bilibili.com/video/BV1pE411w71e/) / [BabyCareOrz](https://github.com/babycareorg) / [Web](https://blog.creativecc.cn/Web-BabyCare/)
+**Computer Generated Hologram** \
+[**CGH**](https://github.com/JackHCC/Computer-Generated-Hologram) • A computer generated hologram simulation framework. \
+Languages & Technologies: `Python`, `Matlab` \
+Project Display: [Project](https://github.com/JackHCC/Computer-Generated-Hologram)
 <br>
 
 [<img align="left" height="94px" width="94px" alt="ppReader" src="./Res/Icon/ppReader.png"/>](https://github.com/CrashKingOrz/ppReader-Kernel)
@@ -207,24 +199,20 @@ Languages & Technologies: `Python`, `GAN`, `OpenCV`\
 Project Display: [Video](https://www.bilibili.com/video/BV15W4y167vb) 
 <br>
 
----
+[<img align="left" height="94px" width="94px" alt="SaferGo" src="./Res/Icon/SaferGo.jpg"/>](https://github.com/JackHCC/SaferGo)
 
-### 🛠️ Amateur Projects
-
-[<img align="left" height="94px" width="94px" alt="CGH" src="./Res/Icon/CGH.png"/>](https://github.com/JackHCC/Computer-Generated-Hologram)
-
-**Computer Generated Hologram** \
-[**CGH**](https://github.com/JackHCC/Computer-Generated-Hologram) • A computer generated hologram simulation framework. \
-Languages & Technologies: `Python`, `Matlab` \
-Project Display: [Project](https://github.com/JackHCC/Computer-Generated-Hologram)
+**SaferGo Software** \
+[**SaferGo**](https://github.com/JackHCC/SaferGo) • A real-time safety travel app that guards you. \
+Languages & Technologies: `Java`, `Android`, `Javascript`, `SQL`, `Nodejs` \
+Project Display: [Video](https://www.bilibili.com/video/BV1jE411w7T4/) / [Web](https://blog.creativecc.cn/Web-SaferGo/)
 <br>
 
-[<img align="left" height="94px" width="94px" alt="Fucking Keng" src="./Res/Icon/KengBook.png"/>](https://github.com/JackHCC/Fucking-Keng)
+[<img align="left" height="94px" width="94px" alt="BabyBox" src="./Res/Icon/BabyBox.png"/>](https://github.com/JackHCC/BabyBox)
 
-**Fucking Keng** \
-[**Keng Book**](https://github.com/JackHCC/Fucking-Keng) • A book to index errors and solutions. \
-Tags: `MarkDown`, `Bugs Resolve`, `Awesome` \
-Project Display: [Book](http://book.creativecc.cn/)
+**BabyCare System** \
+[**BabyCare**](https://github.com/JackHCC/BabyBox) • Real-time baby care Internet of Things system. \
+Languages & Technologies: `Java`, `Android`, `Javascript`, `Ardunio`, `MQTT`, `MongoDB`, `C/C++`, `Nginx`\
+Project Display: [Video](https://www.bilibili.com/video/BV1pE411w71e/) / [BabyCareOrz](https://github.com/babycareorg) / [Web](https://blog.creativecc.cn/Web-BabyCare/)
 <br>
 
 
@@ -258,7 +246,7 @@ Project Display: [Book](http://book.creativecc.cn/)
 <p>❤❤❤❤❤❤ I have a <a href="https://blog.creativecc.cn/SkyDream/">SkyDream</a> ❤❤❤❤❤❤ ✔ !</p>
 <p>❤❤❤❤❤❤ I designed <a href="https://github.com/JackHCC/SkyDream">Here</a> ❤❤❤❤❤❤ 😄.</p>
 
-🧤 If you like what I do, let's make a [**Friend**](https://blog.creativecc.cn/friends/)! 👉👈  
+🧤 If you like what I do, let's make a [**Friend**](https://blog.creativecc.cn/friends/)! 👉 [Free Tools](https://creativecc.cn/index/index.html) 👈  
 
 👩🏼‍🤝‍🧑🏻 Let's study and make progress together 👉 [Go](https://blog.creativecc.cn/) !!! 
 
