@@ -72,7 +72,7 @@ This is my ToolKit, it must be your need 👉 [Creative.CC](https://nav.creative
 **Graduate Student** \
 [**PKU**](https://www.pku.edu.cn/) • 2021/09/01 - Now \
 Skills: `Python`, `Natural Language Processing`, `Computer Vision`, `Embedded System`, `Verilog`, `Assembly`, `etc.` \
-Featured Projects: [PKU Lesson Homework Summary](https://github.com/JackHCC/PKU-Lessons-Summary) / [Awesome DL Models](https://github.com/JackHCC/Awesome-DL-Models)
+Featured Projects: [PKU Lessons Summary](https://github.com/JackHCC/PKU-Lessons-Summary) / [Awesome DL Models](https://github.com/JackHCC/Awesome-DL-Models) / [Quantum Neural Network](https://github.com/JackHCC/Quantum-Neural-Network) / [Computer-Generated-Hologram](https://github.com/JackHCC/Computer-Generated-Hologram)
 <br/>
 
 
