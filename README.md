@@ -72,7 +72,7 @@ This is my ToolKit, it must be your need 👉 [Creative.CC](https://nav.creative
 **Graduate Student** \
 [**PKU**](https://www.pku.edu.cn/) • 2021/09/01 - Now \
 Skills: `Python`, `Natural Language Processing`, `Computer Vision`, `Embedded System`, `Verilog`, `Assembly`, `etc.` \
-Featured Projects: [PKU Lessons Summary](https://github.com/JackHCC/PKU-Lessons-Summary) / [Awesome DL Models](https://github.com/JackHCC/Awesome-DL-Models) / [Quantum Neural Network](https://github.com/JackHCC/Quantum-Neural-Network) / [Computer-Generated-Hologram](https://github.com/JackHCC/Computer-Generated-Hologram)
+Featured Projects: [PKU Lessons Summary](https://github.com/JackHCC/PKU-Lessons-Summary) / [DL Models](https://github.com/JackHCC/Awesome-DL-Models) / [Quantum Neural Network](https://github.com/JackHCC/Quantum-Neural-Network) / [CGH](https://github.com/JackHCC/Computer-Generated-Hologram)
 <br/>
 
 
@@ -81,7 +81,7 @@ Featured Projects: [PKU Lessons Summary](https://github.com/JackHCC/PKU-Lessons-
 **Bachelor Degree** \
 [**USTB**](https://www.ustb.edu.cn/) • 2017/09/01 - 2021/07/01 \
 Skills: `Communication Principle`, `Signals and Systems`, `Digital Signal Processing`, `Machine Learning`, `Deep Learning`, `Computer Network`, `etc.` \
-Featured Projects: [Graduation Design](https://github.com/JackHCC/Graduation-Design) / [USTB Lesson Homework Summary](https://github.com/JackHCC/USTB-miniPaper)
+Featured Projects: [Graduation Design](https://github.com/JackHCC/Graduation-Design) / [USTB Lessons Summary](https://github.com/JackHCC/USTB-miniPaper)
 <br>
 
 ### ⛳ Work Experience
