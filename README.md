@@ -72,7 +72,7 @@ This is my ToolKit, it must be your need 👉 [Creative.CC](https://nav.creative
 **Graduate Student** \
 [**PKU**](https://www.pku.edu.cn/) • 2021/09/01 - Now \
 Skills: `Python`, `Natural Language Processing`, `Computer Vision`, `Embedded System`, `Verilog`, `Assembly`, `etc.` \
-Featured Projects: [PKU Lessons Summary](https://github.com/JackHCC/PKU-Lessons-Summary) / [DL Models](https://github.com/JackHCC/Awesome-DL-Models) / [Quantum Neural Network](https://github.com/JackHCC/Quantum-Neural-Network) / [CGH](https://github.com/JackHCC/Computer-Generated-Hologram)
+Featured Projects: [PKU Lessons Summary](https://github.com/JackHCC/PKU-Lessons-Summary) / [DL Models](https://github.com/JackHCC/Awesome-DL-Models)
 <br/>
 
 
@@ -85,6 +85,14 @@ Featured Projects: [Graduation Design](https://github.com/JackHCC/Graduation-Des
 <br>
 
 ### ⛳ Work Experience
+
+[<img align="left" height="94px" width="94px" alt="DiDi" src="./Res/Icon/PKU.png"/>](https://www.pku.edu.cn/)
+
+**Research Student** \
+[**Spatial Image Processing Lab**](https://ygl.creativecc.cn/) • 2022/07/01 - 2024/07/01 \
+Research Interests: `Holography`, `Computer Generated Hologram`, `Quantum Computation`, `Image Compression`, `3D Real-time Display`  \
+Featured Projects: [Quantum Neural Network](https://github.com/JackHCC/Quantum-Neural-Network) / [CGH](https://github.com/JackHCC/Computer-Generated-Hologram)
+<br>
 
 [<img align="left" height="94px" width="94px" alt="DiDi" src="./Res/Icon/DiDi.png"/>](https://www.didiglobal.com/)
 
@@ -159,14 +167,6 @@ HTML   0 secs          ░░░░░░░░░░░░░░░░░░░
 ---
 
 ### 🏆 Projects
-
-[<img align="left" height="94px" width="94px" alt="CGH" src="./Res/Icon/CGH.png"/>](https://github.com/JackHCC/Computer-Generated-Hologram)
-
-**Computer Generated Hologram** \
-[**CGH**](https://github.com/JackHCC/Computer-Generated-Hologram) • A computer generated hologram simulation framework. \
-Languages & Technologies: `Python`, `Matlab` \
-Project Display: [Project](https://github.com/JackHCC/Computer-Generated-Hologram)
-<br>
 
 [<img align="left" height="94px" width="94px" alt="ppReader" src="./Res/Icon/ppReader.png"/>](https://github.com/CrashKingOrz/ppReader-Kernel)
 
