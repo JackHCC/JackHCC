@@ -90,7 +90,7 @@ Featured Projects: [Graduation Design](https://github.com/JackHCC/Graduation-Des
 
 **Research Student** \
 [**Spatial Image Processing Lab**](https://ygl.creativecc.cn/) • 2022/07/01 - Now \
-Research Interests: `Holography`, `Computer Generated Hologram`, `Quantum Computation`, `Image Compression`, `3D Real-time Display`  \
+Research Interests: `Holography`, `Computer Generated Hologram`, `Quantum Computation`, `Image Compression`  \
 Featured Projects: [Quantum Neural Network](https://github.com/JackHCC/Quantum-Neural-Network) / [CGH](https://github.com/JackHCC/Computer-Generated-Hologram)
 <br>
 
