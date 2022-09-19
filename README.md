@@ -94,6 +94,14 @@ Research Interests: `Holography`, `Computer Generated Hologram`, `Quantum Comput
 Featured Projects: [Quantum Neural Network](https://github.com/JackHCC/Quantum-Neural-Network) / [CGH](https://github.com/JackHCC/Computer-Generated-Hologram)
 <br>
 
+[<img align="left" height="94px" width="94px" alt="ByteDance" src="./Res/Icon/Bytedance.png"/>](https://www.bytedance.com/)
+
+**Advertising Strategy Algorithm Intern** \
+[**ByteDance**](https://www.bytedance.com/) • 2022/07/11 - Now \
+Languages & Technologies: `Python`, `Go`, `C++`, `Advertising Strategy Algorithm`, `Boost`, `Casual ML`  \
+Featured Projects: MSDB / Uplift Model
+<br>
+
 [<img align="left" height="94px" width="94px" alt="DiDi" src="./Res/Icon/DiDi.png"/>](https://www.didiglobal.com/)
 
 **NLP Algorithm Intern** \
