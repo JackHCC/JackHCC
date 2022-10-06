@@ -22,7 +22,7 @@ This is my ToolKit, it must be your need 👉 [Creative.CC](https://nav.creative
 </p>
 
 <p align="center">
-  <a href= "https://nav.creativecc.cn" target="_blank" alt="Toolkit" title="Toolkit">
+  <a href= "https://creativecc.cn" target="_blank" alt="Toolkit" title="Toolkit">
     <img src="./Res/Icon/toolkit.png" width="30px"/>
   </a>
   &emsp;
@@ -99,7 +99,7 @@ Featured Projects: [Quantum Neural Network](https://github.com/JackHCC/Quantum-N
 **Advertising Strategy Algorithm Intern** \
 [**ByteDance**](https://www.bytedance.com/) • 2022/07/11 - Now \
 Languages & Technologies: `Python`, `Go`, `C++`, `Advertising Strategy Algorithm`, `Boost`, `Casual ML`  \
-Featured Projects: MSDB / Uplift Model
+Featured Projects: Model-based Spending Drop Boost / Uplift Model
 <br>
 
 [<img align="left" height="94px" width="94px" alt="DiDi" src="./Res/Icon/DiDi.png"/>](https://www.didiglobal.com/)
@@ -181,7 +181,7 @@ Python   9 mins          ██████████████████�
 **ppReader Platform** \
 [**ppReader**](https://github.com/CrashKingOrz/ppReader-Kernel) • An AI powerful point reading system platform. \
 Languages & Technologies: `Python`, `Paddle`, `OpenCV`, `MediaPipe`, `Yolo`\
-Project Display: [Video](https://www.bilibili.com/video/BV1j94y1d7kC/) / [Application](https://ppreader.creativecc.cn/) / [Web](https://github.com/CrashKingOrz/ppReader-Web) / [Wx Program](https://github.com/CrashKingOrz/ppReader)
+Project Display: [Video](https://www.bilibili.com/video/BV1j94y1d7kC/) / [Server](https://github.com/CrashKingOrz/ppReader-Server) / [Web](https://github.com/CrashKingOrz/ppReader-Web) / [Wx Program](https://github.com/CrashKingOrz/ppReader)
 <br>
 
 [<img align="left" height="94px" width="94px" alt="AmazingMartin" src="./Res/Icon/AmazingMartin.png"/>](https://github.com/CrashKingOrz/AmazingMartin)
