@@ -166,9 +166,8 @@ Featured Projects: [Ghidracraft](https://github.com/StarCrossPortal/ghidracraft)
 <!--START_SECTION:waka-->
 
 ```text
-Python     5 hrs 7 mins    ██████████████████████▓░░   90.45 %
-Markdown   18 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.43 %
-textmate   14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 %
+Python     4 hrs 26 mins   ██████████████████████░░░   88.09 %
+textmate   36 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.91 %
 ```
 
 <!--END_SECTION:waka-->
