@@ -98,8 +98,8 @@ Featured Projects: [Quantum Neural Network](https://github.com/JackHCC/Quantum-N
 
 **Advertising Strategy Algorithm Intern** \
 [**ByteDance**](https://www.bytedance.com/) • 2022/07/11 - Now \
-Languages & Technologies: `Python`, `Go`, `C++`, `Advertising Strategy Algorithm`, `Boost`, `Casual ML`  \
-Featured Projects: Model-based Spending Drop Boost / Uplift Model
+Languages & Technologies: `Python`, `Go`, `C++`, `Advertising Strategy Algorithm`, `Boost`, `Casual ML`, `Uplfit Modeling`  \
+Featured Projects: Model-based Spending Drop Boost / [Awesome Uplift Model](https://github.com/JackHCC/Awesome-Uplift-Model)
 <br>
 
 [<img align="left" height="94px" width="94px" alt="DiDi" src="./Res/Icon/DiDi.png"/>](https://www.didiglobal.com/)
