@@ -59,7 +59,7 @@ This is my ToolKit, it must be your need 👉 [Creative.CC](https://nav.creative
 ### 🤡 Brief Introduction
 
 - 🏫 I’m currently a master student on **<a href="https://www.pku.edu.cn/">Peking University</a>**, majoring in **Electronic Information**
-- 🌱 I’m currently learning [*Natural Language Processing*](https://github.com/JackHCC/NLP-Bubble), [*Quantum*](https://github.com/JackHCC/Quantum-Neural-Network) [*Holography*](https://github.com/JackHCC/Computer-Generated-Hologram), *Advertising Strategy*
+- 🌱 I’m currently learning [*Natural Language Processing*](https://github.com/JackHCC/NLP-Bubble), [*Quantum*](https://github.com/JackHCC/Quantum-Neural-Network) [*Holography*](https://github.com/JackHCC/Computer-Generated-Hologram), [*Advertising Strategy*](https://github.com/JackHCC/Awesome-Uplift-Model)
 - 📫 You can get in touch with me by email at [jackcc0701@163.com](mailto:jackcc0701@163.com)
 - 🎈 Have a fun to [Relax](https://blog.creativecc.cn/iCreate-GuitarSimulator/index) ! [(⊙ˍ⊙)？](https://www.bilibili.com/video/BV1HC4y1x7ek/)
 
@@ -91,7 +91,7 @@ Featured Projects: [Graduation Design](https://github.com/JackHCC/Graduation-Des
 **Research Student** \
 [**Spatial Image Processing Lab**](https://ygl.creativecc.cn/) • 2022/07/01 - Now \
 Research Interests: `Holography`, `Computer Generated Hologram`, `Quantum Computation`, `Image Compression`  \
-Featured Projects: [Quantum Neural Network](https://github.com/JackHCC/Quantum-Neural-Network) / [CGH](https://github.com/JackHCC/Computer-Generated-Hologram)
+Featured Projects: [Quantum Neural Network](https://github.com/JackHCC/Quantum-Neural-Network) / [CGH](https://github.com/JackHCC/Computer-Generated-Hologram) / Quantum Holography
 <br>
 
 [<img align="left" height="94px" width="94px" alt="ByteDance" src="./Res/Icon/Bytedance.png"/>](https://www.bytedance.com/)
@@ -99,7 +99,7 @@ Featured Projects: [Quantum Neural Network](https://github.com/JackHCC/Quantum-N
 **Advertising Strategy Algorithm Intern** \
 [**ByteDance**](https://www.bytedance.com/) • 2022/07/11 - Now \
 Languages & Technologies: `Python`, `Go`, `C++`, `Advertising Strategy Algorithm`, `Boost`, `Casual ML`, `Uplfit Modeling`  \
-Featured Projects: Model-based Spending Drop Boost / [Awesome Uplift Model](https://github.com/JackHCC/Awesome-Uplift-Model)
+Featured Projects: Model-based Spending Drop Boost / Razor / [Awesome Uplift Model](https://github.com/JackHCC/Awesome-Uplift-Model)
 <br>
 
 [<img align="left" height="94px" width="94px" alt="DiDi" src="./Res/Icon/DiDi.png"/>](https://www.didiglobal.com/)
