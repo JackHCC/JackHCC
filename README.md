@@ -70,7 +70,7 @@ This is my ToolKit, it must be your need 👉 [Creative.CC](https://nav.creative
 [<img align="left" height="94px" width="94px" alt="PKU" src="./Res/Icon/PKU.png"/>](https://www.pku.edu.cn/)
 
 **Graduate Student** \
-[**PKU**](https://www.pku.edu.cn/) • 2021/09/01 - Now \
+[**PKU**](https://www.pku.edu.cn/) • 2021/09/01 - 2024/07/01 \
 Skills: `Python`, `Natural Language Processing`, `Computer Vision`, `Embedded System`, `Verilog`, `Assembly`, `etc.` \
 Featured Projects: [PKU Lessons Summary](https://github.com/JackHCC/PKU-Lessons-Summary) / [DL Models](https://github.com/JackHCC/Awesome-DL-Models)
 <br/>
@@ -86,20 +86,20 @@ Featured Projects: [Graduation Design](https://github.com/JackHCC/Graduation-Des
 
 ### ⛳ Work Experience
 
-[<img align="left" height="94px" width="94px" alt="PKU" src="./Res/Icon/PKU.png"/>](https://www.pku.edu.cn/)
-
-**Research Student** \
-[**Spatial Image Processing Lab**](https://ygl.creativecc.cn/) • 2022/07/01 - Now \
-Research Interests: `Holography`, `Computer Generated Hologram`, `Quantum Computation`, `Image Compression`  \
-Featured Projects: [Quantum Neural Network](https://github.com/JackHCC/Quantum-Neural-Network) / [CGH](https://github.com/JackHCC/Computer-Generated-Hologram) / Quantum Holography
-<br>
-
 [<img align="left" height="94px" width="94px" alt="ByteDance" src="./Res/Icon/Bytedance.png"/>](https://www.bytedance.com/)
 
 **Advertising Strategy Algorithm Intern** \
 [**ByteDance**](https://www.bytedance.com/) • 2022/07/11 - Now \
 Languages & Technologies: `Python`, `Go`, `C++`, `Advertising Strategy Algorithm`, `Casual ML`, `Uplfit Modeling`, `Ranking`  \
 Featured Projects: MSDB / Razor / [Awesome Uplift Model](https://github.com/JackHCC/Awesome-Uplift-Model) / [Rec-Models](https://github.com/JackHCC/Rec-Models)
+<br>
+
+[<img align="left" height="94px" width="94px" alt="PKU" src="./Res/Icon/PKU.png"/>](https://www.pku.edu.cn/)
+
+**Research Student** \
+[**Spatial Image Processing Lab**](https://ygl.creativecc.cn/) • 2022/07/01 - Now \
+Research Interests: `Holography`, `Computer Generated Hologram`, `Quantum Computation`, `Image Compression`  \
+Featured Projects: [Quantum Neural Network](https://github.com/JackHCC/Quantum-Neural-Network) / [CGH](https://github.com/JackHCC/Computer-Generated-Hologram) / Quantum Holography
 <br>
 
 [<img align="left" height="94px" width="94px" alt="DiDi" src="./Res/Icon/DiDi.png"/>](https://www.didiglobal.com/)
