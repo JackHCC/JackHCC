@@ -94,6 +94,14 @@ Research Interests: `Holography`, `Computer Generated Hologram`, `Quantum Comput
 Featured Projects: [Quantum Neural Network](https://github.com/JackHCC/Quantum-Neural-Network) / [CGH](https://github.com/JackHCC/Computer-Generated-Hologram) / Quantum Holography
 <br>
 
+[<img align="left" height="94px" width="94px" alt="Kwai" src="./Res/Icon/Kwai.png"/>](https://www.kuaishou.com/)
+
+**Advertising Algorithm Intern** \
+[**Kwai**](https://www.kuaishou.com/) • 2023/05/05 - Now \
+Languages & Technologies: `Python`, `C++`, `Advertising Models`, `Multimodal`  \
+Featured Projects: NF
+<br>
+
 [<img align="left" height="94px" width="94px" alt="ByteDance" src="./Res/Icon/Bytedance.png"/>](https://www.bytedance.com/)
 
 **Advertising Strategy Algorithm Intern** \
