@@ -173,7 +173,7 @@ Featured Projects: [Ghidracraft](https://github.com/StarCrossPortal/ghidracraft)
 ### 📊 This Week I Spent My Time On:
 <!--START_SECTION:waka-->
 
-```text
+```txt
 No activity tracked
 ```
 
