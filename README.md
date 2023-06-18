@@ -173,11 +173,8 @@ Featured Projects: [Ghidracraft](https://github.com/StarCrossPortal/ghidracraft)
 ### 📊 This Week I Spent My Time On:
 <!--START_SECTION:waka-->
 
-```text
-Python     1 hr 3 mins     ██████████████████████░░░   88.21 %
-HTML       8 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.26 %
-CSS        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+```txt
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
