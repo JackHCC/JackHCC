@@ -42,15 +42,11 @@ This is my ToolKit, it must be your need 👉 [Creative.CC](https://nav.creative
     <img src="https://img.icons8.com/ios-glyphs/30/000000/twitter--v1.png" width="30px"/>
   </a>
   &emsp;
-  <a href= "https://www.instagram.com/hcc0701/" target="_blank" alt="Instagram" title="Instagram">
-    <img src="https://img.icons8.com/ios-glyphs/256/000000/instagram-new.svg" width="28px"/>
-  </a>
-  &emsp;
   <a href="https://www.jianshu.com/u/f4a500314f23" target="_blank" alt="Jianshu" title="Jianshu">
     <img src="https://img.icons8.com/material-outlined/24/000000/jianshu.png" width="26px"/>
   </a>
   <br><br>
-  <strong>⚡ Check out my work below! </strong>
+  <strong>⚡ More Code, Less Hair! </strong>
   <br><br>
 </p>
 
@@ -99,7 +95,7 @@ Featured Projects: [Quantum Neural Network](https://github.com/JackHCC/Quantum-N
 **Advertising Algorithm Intern** \
 [**Kwai**](https://www.kuaishou.com/) • 2023/05/05 - Now \
 Languages & Technologies: `Python`, `C++`, `Advertising Models`, `Multimodal`  \
-Featured Projects: NF / Optimization of multimodal representation / Feature Selection
+Featured Projects: Flow-based Models / CVAR / Multimodal for Rec / LLM4Rec
 <br>
 
 [<img align="left" height="94px" width="94px" alt="ByteDance" src="./Res/Icon/Bytedance.png"/>](https://www.bytedance.com/)
