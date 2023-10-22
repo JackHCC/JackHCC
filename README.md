@@ -55,7 +55,7 @@ This is my ToolKit, it must be your need 👉 [Creative.CC](https://nav.creative
 ### 🤡 Brief Introduction
 
 - 🏫 I’m currently a master student on **<a href="https://www.pku.edu.cn/">Peking University</a>**, majoring in **Electronic Information**
-- 🌱 My research interests include [*Natural Language Processing*](https://github.com/JackHCC/NLP-Bubble), [*Quantum*](https://github.com/JackHCC/Quantum-Neural-Network) [*Holography*](https://github.com/JackHCC/Computer-Generated-Hologram), [*Advertising Strategy*](https://github.com/JackHCC/Awesome-Uplift-Model) *and* [*Models*](https://github.com/JackHCC/Rec-Models)
+- 🌱 My research interests include [*Advertising Strategy*](https://github.com/JackHCC/Awesome-Uplift-Model) *and* [*Models*](https://github.com/JackHCC/Rec-Models), [*Natural Language Processing*](https://github.com/JackHCC/NLP-Bubble), [*Quantum*](https://github.com/JackHCC/Quantum-Neural-Network) [*Holography*](https://github.com/JackHCC/Computer-Generated-Hologram), *Financial Quantization*
 - 📫 You can get in touch with me by email at [jackcc0701@163.com](mailto:jackcc0701@163.com)
 - 🎈 Have a fun to [Relax](https://blog.creativecc.cn/iCreate-GuitarSimulator/index) ! [(⊙ˍ⊙)？](https://www.bilibili.com/video/BV1HC4y1x7ek/)
 
@@ -93,9 +93,9 @@ Featured Projects: [Quantum Neural Network](https://github.com/JackHCC/Quantum-N
 [<img align="left" height="94px" width="94px" alt="Kwai" src="./Res/Icon/Kwai.png"/>](https://www.kuaishou.com/)
 
 **Advertising Algorithm Intern** \
-[**Kwai**](https://www.kuaishou.com/) • 2023/05/05 - Now \
-Languages & Technologies: `Python`, `C++`, `Advertising Models`, `Multimodal`  \
-Featured Projects: Flow-based Models / CVAR / Multimodal for Rec / LLM4Rec
+[**Kwai**](https://www.kuaishou.com/) • 2023/05/05 - 2023/10/24 \
+Languages & Technologies: `Python`, `C++`, `Advertising Models`, `Multimodal`, `LLM`  \
+Featured Projects: Ranking Models / Flow-based Models / CVAR / Multimodal for Rec / LLM4Rec
 <br>
 
 [<img align="left" height="94px" width="94px" alt="ByteDance" src="./Res/Icon/Bytedance.png"/>](https://www.bytedance.com/)
