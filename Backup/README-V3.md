@@ -60,6 +60,70 @@ This is my ToolKit, it must be your need 👉 [Creative.CC](https://nav.creative
 - 🎈 Have a fun to [Relax](https://blog.creativecc.cn/iCreate-GuitarSimulator/index) ! [(⊙ˍ⊙)？](https://www.bilibili.com/video/BV1HC4y1x7ek/)
 
 ---
+
+### 📗 Education Experience
+
+[<img align="left" height="94px" width="94px" alt="PKU" src="./Res/Icon/PKU.png"/>](https://www.pku.edu.cn/)
+
+**Graduate Student** \
+[**PKU**](https://www.pku.edu.cn/) • 2021/09/01 - 2024/07/01 \
+Skills: `Python`, `Natural Language Processing`, `Computer Vision`, `Embedded System`, `Verilog`, `Assembly`, `etc.` \
+Featured Projects: [PKU Lessons Summary](https://github.com/JackHCC/PKU-Lessons-Summary) / [DL Models](https://github.com/JackHCC/Awesome-DL-Models)
+<br/>
+
+
+[<img align="left" height="94px" width="94px" alt="USTB" src="./Res/Icon/USTB.png"/>](https://www.ustb.edu.cn/)
+
+**Bachelor Degree** \
+[**USTB**](https://www.ustb.edu.cn/) • 2017/09/01 - 2021/07/01 \
+Skills: `Communication Principle`, `Signals and Systems`, `Digital Signal Processing`, `Machine Learning`, `Deep Learning`, `Computer Network`, `etc.` \
+Featured Projects: [Graduation Design](https://github.com/JackHCC/Graduation-Design) / [USTB Lessons Summary](https://github.com/JackHCC/USTB-miniPaper)
+<br>
+
+### ⛳ Work Experience
+
+[<img align="left" height="94px" width="94px" alt="PKU" src="./Res/Icon/PKU.png"/>](https://www.pku.edu.cn/)
+
+**Research Student** \
+[**Spatial Image Processing Lab**](https://ygl.creativecc.cn/) • 2022/07/01 - Now \
+Research Interests: `Holography`, `Computer Generated Hologram`, `Quantum Computation`, `Image Compression`  \
+Featured Projects: [Quantum Neural Network](https://github.com/JackHCC/Quantum-Neural-Network) / [CGH](https://github.com/JackHCC/Computer-Generated-Hologram) / Quantum Holography
+<br>
+
+[<img align="left" height="94px" width="94px" alt="Kwai" src="./Res/Icon/Kwai.png"/>](https://www.kuaishou.com/)
+
+**Advertising Algorithm Intern** \
+[**Kwai**](https://www.kuaishou.com/) • 2023/05/05 - 2023/10/24 \
+Languages & Technologies: `Python`, `C++`, `Advertising Models`, `Multimodal`, `LLM`  \
+Featured Projects: Ranking Models / Flow-based Models / CVAR / Multimodal for Rec / LLM4Rec
+<br>
+
+[<img align="left" height="94px" width="94px" alt="ByteDance" src="./Res/Icon/Bytedance.png"/>](https://www.bytedance.com/)
+
+**Advertising Strategy Algorithm Intern** \
+[**ByteDance**](https://www.bytedance.com/) • 2022/07/11 - 2023/05/04 \
+Languages & Technologies: `Python`, `Go`, `C++`, `Advertising Strategy Algorithm`, `Casual ML`, `Uplfit Modeling`, `Ranking`  \
+Featured Projects: MSDB / Ads Partition / Razor / [Awesome Uplift Model](https://github.com/JackHCC/Awesome-Uplift-Model) / [Rec-Models](https://github.com/JackHCC/Rec-Models)
+<br>
+
+[<img align="left" height="94px" width="94px" alt="DiDi" src="./Res/Icon/DiDi.png"/>](https://www.didiglobal.com/)
+
+**NLP Algorithm Intern** \
+[**DiDi**](https://www.didiglobal.com/) • 2022/03/22 - 2022/06/23 \
+Languages & Technologies: `Python`, `Natural Language Processing`, `Event Extraction`, `Question Answering System`, `KeyPhrase Extraction`  \
+Featured Projects: KBQA / IRQA / [KeyPhrase Extraction](https://github.com/JackHCC/Chinese-Keyphrase-Extraction)
+<br>
+
+[<img align="left" height="94px" width="94px" alt="StarCross" src="./Res/Icon/XLKJ.png"/>](http://www.starcross.cn/)
+
+**System Security R&D Engineer** \
+[**StarCross**](http://www.starcross.cn/) • 2021/04/19 - 2021/11/30 \
+Languages & Technologies: `Python`, `Java`, `Rust`, `Linux`, `Operating System`, `Linux Kernel`, `Binary Security`, `Function Detection`, `Redis` \
+Featured Projects: [Ghidracraft](https://github.com/StarCrossPortal/ghidracraft) / [Binary Code Similarity Detection(Part)](https://github.com/JackHCC/Pcode-Similarity) / [Awesome-BCSD](https://github.com/JackHCC/Awesome-Binary-Code-Similarity-Detection-2021)
+<br>
+
+
+---
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="343" height="220" title="Do what you like, and do it best!"> 
 
 **Languages and Frameworks**
