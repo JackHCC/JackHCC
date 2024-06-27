@@ -54,7 +54,6 @@ This is my ToolKit, it must be your need 👉 [Creative.CC](https://nav.creative
 
 ### 🤡 Brief Introduction
 
-- 🏫 I’m currently a master student on **<a href="https://www.pku.edu.cn/">Peking University</a>**, majoring in **Electronic Information**
 - 🌱 My research interests include [*Advertising Strategy*](https://github.com/JackHCC/Awesome-Uplift-Model) *and* [*Models*](https://github.com/JackHCC/Rec-Models), [*Natural Language Processing*](https://github.com/JackHCC/NLP-Bubble), [*Quantum*](https://github.com/JackHCC/Quantum-Neural-Network) [*Holography*](https://github.com/JackHCC/Computer-Generated-Hologram), *Financial Quantization*
 - 📫 You can get in touch with me by email at [jackcc0701@163.com](mailto:jackcc0701@163.com)
 - 🎈 Have a fun to [Relax](https://blog.creativecc.cn/iCreate-GuitarSimulator/index) ! [(⊙ˍ⊙)？](https://www.bilibili.com/video/BV1HC4y1x7ek/)
